@@ -2,6 +2,7 @@ Fuzzy Extractor
 ===============
 
 A Python implementation of fuzzy extractor.
+
 Forked Edit : Replaces fastpbkdf2 depencency with hashlib
 
 Introduction
