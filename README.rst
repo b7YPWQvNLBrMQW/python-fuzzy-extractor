@@ -3,7 +3,7 @@ Fuzzy Extractor
 
 A Python implementation of fuzzy extractor.
 
-Forked Edit : Replaces fastpbkdf2 depencency with built-in hashlib
+Forked Edit : Replaces fastpbkdf2 depencency with built-in hashlib for Python3
 
 Introduction
 ============
